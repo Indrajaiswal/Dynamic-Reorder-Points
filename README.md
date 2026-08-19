@@ -898,19 +898,19 @@ Interactive Dashboard
 
 
 ## 📸 Screenshots
-![](screenshorts/1.png)
-![](screenshorts/2.png)
-![](screenshorts/3.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
 ![](screenshorts/4.png)
-![](screenshorts/5.png)
-![](screenshorts/6.png)
-![](screenshorts/7.png)
-![](screenshorts/8.png)
-![](screenshorts/9.png)
-![](screenshorts/10.png)
-![](screenshorts/11.png)
-![](screenshorts/12.png)
-![](screenshorts/13.png)
+![](screenshots/5.png)
+![](screenshots/6.png)
+![](screenshots/7.png)
+![](screenshots/8.png)
+![](screenshots/9.png)
+![](screenshots/10.png)
+![](screenshots/11.png)
+![](screenshots/12.png)
+![](screenshots/13.png)
 
 
 

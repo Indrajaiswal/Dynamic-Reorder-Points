@@ -22,6 +22,10 @@ However, demand can change because of:
 
 This project uses **machine learning demand forecasting** and **dynamic safety stock calculation** to determine when inventory should be reordered.
 
+## 🌐 Live Demo
+https://dynamic-reorder-points-cvjkl7r35bexcfnk5kr8sa.streamlit.app/
+
+
 ### Basic Workflow
 
 ```text
@@ -890,3 +894,20 @@ Inventory Optimization
         +
 Interactive Dashboard
 ```
+
+
+
+## 📸 Screenshots
+
+(screenshots/1.png)
+
+![](screenshots/1.png)
+
+
+
+![Asking a question](screenshots/2.png)
+
+
+
+![Chatbot answer](screenshots/3.png)
+![Chatbot answer](screenshots/4.png)
